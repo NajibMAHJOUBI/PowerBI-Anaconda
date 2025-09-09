@@ -1,7 +1,7 @@
 # PowerBI-Anaconda
 Gestion des environnements Conda pour les scripts Python dans Power BI
 
-Les éléments de ce repo servent à accompagner un [article Linkedin](e) sur la gestion des environnements virtuels Conda et leur utilisation dans Power BI Desktop.
+Les éléments de ce repo servent à accompagner un [article Linkedin](https://www.linkedin.com/pulse/power-bi-g%C3%A9rer-des-environnements-python-conda-nejib-mahjoubi-a1qse/) sur la gestion des environnements virtuels Conda et leur utilisation dans Power BI Desktop.
 
 ## Données de ce dépôt GitHub
 
